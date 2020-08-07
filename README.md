@@ -1,4 +1,4 @@
-Bilibili-AvToBv
+Bilibili-UserNameAndIntroduction
 ===
 一个爬取bilibili用户名和简介的小玩意~开源协议为WTFPL。当前版本为v1.0.0。
 

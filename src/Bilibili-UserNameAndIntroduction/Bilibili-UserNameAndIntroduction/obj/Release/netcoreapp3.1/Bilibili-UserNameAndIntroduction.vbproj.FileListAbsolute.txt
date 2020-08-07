@@ -1,0 +1,13 @@
+G:\code\VisualBasic\Bilibili-UserNameAndIntroduction\src\Bilibili-UserNameAndIntroduction\Bilibili-UserNameAndIntroduction\bin\Release\netcoreapp3.1\Bilibili-UserNameAndIntroduction.exe
+G:\code\VisualBasic\Bilibili-UserNameAndIntroduction\src\Bilibili-UserNameAndIntroduction\Bilibili-UserNameAndIntroduction\bin\Release\netcoreapp3.1\Bilibili-UserNameAndIntroduction.deps.json
+G:\code\VisualBasic\Bilibili-UserNameAndIntroduction\src\Bilibili-UserNameAndIntroduction\Bilibili-UserNameAndIntroduction\bin\Release\netcoreapp3.1\Bilibili-UserNameAndIntroduction.runtimeconfig.json
+G:\code\VisualBasic\Bilibili-UserNameAndIntroduction\src\Bilibili-UserNameAndIntroduction\Bilibili-UserNameAndIntroduction\bin\Release\netcoreapp3.1\Bilibili-UserNameAndIntroduction.runtimeconfig.dev.json
+G:\code\VisualBasic\Bilibili-UserNameAndIntroduction\src\Bilibili-UserNameAndIntroduction\Bilibili-UserNameAndIntroduction\bin\Release\netcoreapp3.1\Bilibili-UserNameAndIntroduction.dll
+G:\code\VisualBasic\Bilibili-UserNameAndIntroduction\src\Bilibili-UserNameAndIntroduction\Bilibili-UserNameAndIntroduction\bin\Release\netcoreapp3.1\Bilibili-UserNameAndIntroduction.pdb
+G:\code\VisualBasic\Bilibili-UserNameAndIntroduction\src\Bilibili-UserNameAndIntroduction\Bilibili-UserNameAndIntroduction\obj\Release\netcoreapp3.1\Bilibili-UserNameAndIntroduction.vbprojAssemblyReference.cache
+G:\code\VisualBasic\Bilibili-UserNameAndIntroduction\src\Bilibili-UserNameAndIntroduction\Bilibili-UserNameAndIntroduction\obj\Release\netcoreapp3.1\Bilibili-UserNameAndIntroduction.vbproj.CoreCompileInputs.cache
+G:\code\VisualBasic\Bilibili-UserNameAndIntroduction\src\Bilibili-UserNameAndIntroduction\Bilibili-UserNameAndIntroduction\obj\Release\netcoreapp3.1\Bilibili-UserNameAndIntroduction.AssemblyInfoInputs.cache
+G:\code\VisualBasic\Bilibili-UserNameAndIntroduction\src\Bilibili-UserNameAndIntroduction\Bilibili-UserNameAndIntroduction\obj\Release\netcoreapp3.1\Bilibili-UserNameAndIntroduction.AssemblyInfo.vb
+G:\code\VisualBasic\Bilibili-UserNameAndIntroduction\src\Bilibili-UserNameAndIntroduction\Bilibili-UserNameAndIntroduction\obj\Release\netcoreapp3.1\Bilibili-UserNameAndIntroduction.dll
+G:\code\VisualBasic\Bilibili-UserNameAndIntroduction\src\Bilibili-UserNameAndIntroduction\Bilibili-UserNameAndIntroduction\obj\Release\netcoreapp3.1\Bilibili-UserNameAndIntroduction.pdb
+G:\code\VisualBasic\Bilibili-UserNameAndIntroduction\src\Bilibili-UserNameAndIntroduction\Bilibili-UserNameAndIntroduction\obj\Release\netcoreapp3.1\Bilibili-UserNameAndIntroduction.genruntimeconfig.cache
